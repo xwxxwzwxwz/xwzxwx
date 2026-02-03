@@ -1,3 +1,5 @@
+-- @vacbt
+
 local VIM = game:GetService("VirtualInputManager")
 local RS = game:GetService("RunService")
 local plr = game.Players.LocalPlayer
